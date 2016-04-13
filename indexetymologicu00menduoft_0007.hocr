@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./indexetymologicu00menduoft_0007.png"; bbox 0 0 2227 3642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 54 370 1908 765">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 54 370 1908 765">
+     <span class='ocr_line' id='line_1_1' title="bbox 54 370 1908 488; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 54 377 526 488; x_wconf 83' lang='lat' dir='ltr'>INDEX</span> <span class='ocrx_word' id='word_1_2' title='bbox 618 370 1908 485; x_wconf 76' lang='lat' dir='ltr'>ETYMOLOGICUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 122 648 1855 765; baseline -0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 122 651 879 765; x_wconf 82' lang='lat' dir='ltr'>DICTIONIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 974 648 1855 762; x_wconf 69' lang='lat' dir='ltr'>HOMERICAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 856 1229 1134 1265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 856 1229 1134 1265">
+     <span class='ocr_line' id='line_1_3' title="bbox 856 1229 1134 1265; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 856 1229 1134 1265; x_wconf 73' lang='lat' dir='ltr'>COMPOSUIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 783 2076 1232 2538">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 783 2076 1232 2538">
+     <span class='ocr_line' id='line_1_4' title="bbox 783 2076 1232 2538; baseline 0 1104"><span class='ocrx_word' id='word_1_6' title='bbox 783 2076 1232 2538; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 915 3186 1079 3209">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 915 3186 1079 3209">
+     <span class='ocr_line' id='line_1_5' title="bbox 915 3186 1079 3209; baseline -0.012 0"><span class='ocrx_word' id='word_1_7' title='bbox 915 3188 988 3209; x_wconf 77' lang='lat' dir='ltr'>MDC</span> <span class='ocrx_word' id='word_1_8' title='bbox 992 3186 1079 3209; x_wconf 89' lang='lat' dir='ltr'>CCCC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
